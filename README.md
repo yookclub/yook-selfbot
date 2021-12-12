@@ -6,6 +6,6 @@ STEP 4: py bot.py
 STEP 5: profit.                                                                                                                             
 
 Legality.                                                                                                                                 
-blah blah blah education purposes, blah blah im not held accountable.                                                                     
+blah blah blah education purposes, blah blah im not held accountable.                                                                                                                                                                                                                                 
 TypeError: __new__() got an unexpected keyword argument 'deny_new'                                                                  
 "pip install -U discord.py" will fix this, rare error.                                                                                  
