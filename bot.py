@@ -143,13 +143,13 @@ def startprint():
                                   ▀                    ▀                                 
                         
                         
-                       {Fore.CYAN}yook.club {1.0} | {Fore.GREEN}Logged in as: {yook.user.name}#{yook.user.discriminator} {Fore.CYAN}|  
-                       {Fore.CYAN}Privnote Sniper | {Fore.GREEN}{privnote}
-                       {Fore.CYAN}Nitro Sniper | {Fore.GREEN}{nitro}
-                       {Fore.CYAN}Giveaway Joiner | {Fore.GREEN}{giveaway}
-                       {Fore.CYAN}SlotBot Sniper | {Fore.GREEN}{slotbot}
-                       {Fore.CYAN}Prefix: {Fore.GREEN}{prefix}
-                       {Fore.CYAN}Creator: {Fore.GREEN}yook#3636
+                       {Fore.CYAN}yook.club {1.0} | {Fore.WHITE}Logged in as: {yook.user.name}#{yook.user.discriminator}
+                       {Fore.CYAN}Privnote Sniper | {Fore.WHITE}{privnote}
+                       {Fore.CYAN}Nitro Sniper | {Fore.WHITE}{nitro}
+                       {Fore.CYAN}Giveaway Joiner | {Fore.WHITE}{giveaway}
+                       {Fore.CYAN}SlotBot Sniper | {Fore.WHITE}{slotbot}
+                       {Fore.CYAN}Prefix: {Fore.WHITE}{prefix}
+                       {Fore.CYAN}Creator: {Fore.WHITE}yook#3636
     '''+Fore.RESET)
 
 def Clear():
